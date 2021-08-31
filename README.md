@@ -1,0 +1,3 @@
+# mathfuck
+
+who needs math
